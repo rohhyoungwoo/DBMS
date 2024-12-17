@@ -1,0 +1,10 @@
+-- sql 주석 (ctrl + /)
+-- 주석 처리된 sql문은 실행되지 않는다
+-- 한줄 주석 -- : 해당 라인 줄을 주석 처리
+/* 범위주석 (ctrl + shift + /)
+ * 범위 안에 있는 라인을 주석처리
+ */
+
+-- 실행 단축키 : ctrl + enter
+ SELECT * FROM employees;
+ SELECT FIRST_Name FROM EMPLOYEES;

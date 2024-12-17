@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+	<item id="MetaData/oracle_thin">
+		<column name="이름" visible="true" order="0" width="143"/>
+		<column name="레이블" visible="true" order="1" width="110"/>
+		<column name="#" visible="true" order="2" width="100"/>
+		<column name="유형" visible="true" order="3" width="100"/>
+		<column name="카탈로그명" visible="true" order="4" width="100"/>
+		<column name="스키마명" visible="true" order="5" width="100"/>
+		<column name="테이블명" visible="true" order="6" width="100"/>
+		<column name="최대 길이" visible="true" order="7" width="100"/>
+		<column name="정밀도" visible="true" order="8" width="100"/>
+		<column name="Scale" visible="true" order="9" width="100"/>
+		<column name="JDBC 유형" visible="true" order="10" width="100"/>
+		<column name="Not Null" visible="true" order="11" width="100"/>
+		<column name="Auto" visible="true" order="12" width="100"/>
+		<column name="Description" visible="true" order="13" width="100"/>
+	</item>
+	<item id="NodeList/DBNProjectDatabases/DBNBookmarkFolder/DBNDashboardFolder/DBNDiagramFolder/DBNResource">
+		<column name="이름" visible="true" order="0" width="100"/>
+		<column name="경로" visible="true" order="1" width="117"/>
+		<column name="크기" visible="true" order="2" width="100"/>
+		<column name="최종 수정" visible="true" order="3" width="100"/>
+	</item>
+	<item id="NodeList/DataSourceDescriptor">
+		<column name="이름" visible="true" order="0" width="100"/>
+		<column name="설명" visible="true" order="1" width="100"/>
+		<column name="Origin" visible="true" order="2" width="100"/>
+		<column name="드라이버 유형" visible="true" order="3" width="100"/>
+	</item>
+	<item id="NodeList/OracleTableColumn">
+		<column name="컬럼명" visible="true" order="0" width="143"/>
+		<column name="#" visible="true" order="1" width="100"/>
+		<column name="Type" visible="true" order="2" width="100"/>
+		<column name="Type Mod" visible="true" order="3" width="100"/>
+		<column name="Not Null" visible="true" order="4" width="100"/>
+		<column name="디폴트" visible="true" order="5" width="95"/>
+		<column name="Comment" visible="true" order="6" width="813"/>
+	</item>
+	<item id="Suggestion/NodeList/OracleTableColumn">
+		<column name="컬럼명" visible="true" order="0" width="128"/>
+		<column name="#" visible="true" order="1" width="27"/>
+		<column name="Type" visible="true" order="2" width="106"/>
+		<column name="Type Mod" visible="false" order="3" width="100"/>
+		<column name="Not Null" visible="true" order="3" width="59"/>
+		<column name="디폴트" visible="true" order="4" width="50"/>
+		<column name="Comment" visible="true" order="5" width="68"/>
+	</item>
+</items>
