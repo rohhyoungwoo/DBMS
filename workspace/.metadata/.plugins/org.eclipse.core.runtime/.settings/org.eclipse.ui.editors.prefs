@@ -1,3 +1,4 @@
 SQLEditor.extraPanels.ratio=500-500
-SQLEditor.resultSet.ratio=650-349
+SQLEditor.resultSet.ratio=670-320
 eclipse.preferences.version=1
+lineNumberRuler=true
