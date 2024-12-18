@@ -6610,3 +6610,55 @@ java.lang.Error: SWT Resource was not properly disposed
 
 !ENTRY org.jkiss.dbeaver.model 2 0 2024-12-18 17:52:32.727
 !MESSAGE Some data source listeners are still registered: org.jkiss.dbeaver.model.navigator.DBNProjectDatabases:node://day02/datasources
+!SESSION 2024-12-18 21:47:25.762 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -eclipse.keyring C:\Users\Administrator\AppData\Roaming\DBeaverData\secure\secure_storage
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data E:\web_0900_roh\dbms\workspace -data E:\web_0900_roh\dbms\DBMS\workspace
+
+!ENTRY org.eclipse.ui 2 2 2024-12-18 21:47:30.031
+!MESSAGE Invalid preference category path: org.eclipse.debug.ui.ConsolePreferencePage (bundle: org.eclipse.ui.console, page: org.eclipse.ui.internal.console.ansi.preferences.AnsiConsolePreferencePage)
+
+!ENTRY org.jkiss.dbeaver.model 4 0 2024-12-18 21:48:16.435
+!MESSAGE Error creating driver 'Oracle' instance.
+Most likely required jar files are missing.
+You should configure jars in driver settings.
+
+Reason: can't load driver class 'oracle.jdbc.OracleDriver'
+!SUBENTRY 1 org.jkiss.dbeaver.model 4 0 2024-12-18 21:48:16.435
+!MESSAGE oracle.jdbc.OracleDriver
+!STACK 0
+java.lang.ClassNotFoundException: oracle.jdbc.OracleDriver
+	at java.base/java.net.URLClassLoader.findClass(Unknown Source)
+	at java.base/java.lang.ClassLoader.loadClass(Unknown Source)
+	at java.base/java.lang.ClassLoader.loadClass(Unknown Source)
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Unknown Source)
+	at org.jkiss.dbeaver.registry.driver.DriverDescriptor.loadDriver(DriverDescriptor.java:1332)
+	at org.jkiss.dbeaver.registry.driver.DriverDescriptor.loadDriver(DriverDescriptor.java:1262)
+	at org.jkiss.dbeaver.registry.driver.DriverDescriptor.getDriverInstance(DriverDescriptor.java:784)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.getDriverInstance(JDBCDataSource.java:774)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.createDriverInstance(JDBCDataSource.java:329)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.openConnection(JDBCDataSource.java:190)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.openConnection(JDBCDataSource.java:133)
+	at org.jkiss.dbeaver.ext.oracle.model.OracleDataSource.openConnection(OracleDataSource.java:197)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCExecutionContext.connect(JDBCExecutionContext.java:124)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCRemoteInstance.initializeMainContext(JDBCRemoteInstance.java:102)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCRemoteInstance.<init>(JDBCRemoteInstance.java:61)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.initializeRemoteInstance(JDBCDataSource.java:125)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.<init>(JDBCDataSource.java:109)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.<init>(JDBCDataSource.java:100)
+	at org.jkiss.dbeaver.ext.oracle.model.OracleDataSource.<init>(OracleDataSource.java:110)
+	at org.jkiss.dbeaver.ext.oracle.OracleDataSourceProvider.openDataSource(OracleDataSourceProvider.java:143)
+	at org.jkiss.dbeaver.registry.DataSourceDescriptor.openDataSource(DataSourceDescriptor.java:1395)
+	at org.jkiss.dbeaver.registry.DataSourceDescriptor.connect0(DataSourceDescriptor.java:1266)
+	at org.jkiss.dbeaver.registry.DataSourceDescriptor.connect(DataSourceDescriptor.java:1056)
+	at org.jkiss.dbeaver.runtime.jobs.ConnectJob.run(ConnectJob.java:78)
+	at org.jkiss.dbeaver.runtime.jobs.ConnectionTestJob.run(ConnectionTestJob.java:103)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:119)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2024-12-18 21:48:28.005
+!MESSAGE Some data source listeners are still registered: org.jkiss.dbeaver.model.navigator.DBNProjectDatabases:node://day03/datasources

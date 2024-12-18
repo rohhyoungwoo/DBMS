@@ -1,0 +1,243 @@
+2024-12-19 00:08:29.913 - DBeaver 24.3.0.202412011650 is starting
+2024-12-19 00:08:29.914 - OS: Windows 10 10.0 (amd64)
+2024-12-19 00:08:29.914 - Java version: 17.0.6 by Eclipse Adoptium (64bit)
+2024-12-19 00:08:29.915 - Install path: 'E:\web_0900_roh\dbms1\resource\dbeaver-ce-24.3.0-win32.win32.x86_64\dbeaver'
+2024-12-19 00:08:29.915 - Instance path: 'file:/E:/web_0900_roh/dbms/DBMS/workspace/'
+2024-12-19 00:08:29.916 - Memory available 64Mb/1024Mb
+2024-12-19 00:08:29.917 - Platform not initialized: metadata folder may be not set
+2024-12-19 00:08:29.924 - Create display
+2024-12-19 00:08:30.015 - Initialize desktop platform...
+2024-12-19 00:08:30.099 - BounceCastle bundle found. Use JCE provider BC
+> Start Core File Systems [org.eclipse.core.filesystem 1.11.0.v20240824-0952]
+> Start Core Resource Management [org.eclipse.core.resources 3.21.0.v20240805-1607]
+> Start Team Support Core [org.eclipse.team.core 3.10.500.v20240621-0541]
+> Start DBeaver UI Navigator [org.jkiss.dbeaver.ui.navigator 1.0.144.202412011650]
+2024-12-19 00:08:30.244 - Initialize base platform...
+> Start DBeaver UI Editors - Base [org.jkiss.dbeaver.ui.editors.base 1.0.144.202412011650]
+2024-12-19 00:08:30.263 - Platform initialized (248ms)
+2024-12-19 00:08:30.316 - Starting instance server at http://localhost:51549
+2024-12-19 00:08:30.321 - Run workbench
+> Start Eclipse e4 Workbench SWT [org.eclipse.e4.ui.workbench.swt 0.17.500.v20240807-0911]
+> Start Eclipse Application Services [org.eclipse.e4.core.services 2.4.400.v20240413-1529]
+> Start Eclipse UI Application Services [org.eclipse.e4.ui.services 1.6.300.v20231201-1637]
+> Start Eclipse e4 Progress View [org.eclipse.e4.ui.progress 0.4.600.v20240606-1020]
+> Start Eclipse Bindings Support [org.eclipse.e4.ui.bindings 0.14.400.v20240321-1245]
+> Start Eclipse e4 core commands [org.eclipse.e4.core.commands 1.1.400.v20240424-0444]
+> Start EMF XML/XMI Persistence [org.eclipse.emf.ecore.xmi 2.38.0.v20240721-0634]
+> Start Eclipse CSS SWT Theme Support [org.eclipse.e4.ui.css.swt.theme 0.14.400.v20240424-0956]
+> Start Eclipse e4 Workbench Add-ons [org.eclipse.e4.ui.workbench.addons.swt 1.5.500.v20240620-1945]
+> Start Eclipse e4 Workbench SWT Renderer [org.eclipse.e4.ui.workbench.renderers.swt 0.16.500.v20240727-1037]
+> Start Eclipse Dependency Injection Extensions [org.eclipse.e4.core.di.extensions 0.18.300.v20240413-1529]
+> Start Eclipse CSS SWT Support [org.eclipse.e4.ui.css.swt 0.15.400.v20240321-1245]
+2024-12-19 00:08:31.368 - Configure workbench window
+> Start DBeaver SQL Model [org.jkiss.dbeaver.model.sql 1.0.134.202412011650]
+2024-12-19 00:08:31.449 - Script dialect 'gbase8s' not found in registry (for data source provider gbase8s). Use default.
+2024-12-19 00:08:31.496 - Total database drivers: 121 (121)
+> Start Help System Core [org.eclipse.help 3.10.400.v20240415-0528]
+2024-12-19 00:08:31.560 - Create actions
+2024-12-19 00:08:31.565 - Disable Eclipse action set 'org.eclipse.ui.edit.text.actionSet.annotationNavigation'
+2024-12-19 00:08:31.566 - Disable Eclipse action set 'org.eclipse.ui.WorkingSetActionSet'
+2024-12-19 00:08:31.566 - Disable Eclipse action set 'org.eclipse.ui.actionSet.openFiles'
+2024-12-19 00:08:31.567 - Create workbench actions
+2024-12-19 00:08:31.893 - Initialize workbench window
+2024-12-19 00:08:31.897 - Finish initialization
+> Start Default Text Editor [org.eclipse.ui.editors 3.18.0.v20240807-0735]
+> Start Text Editor Framework [org.eclipse.ui.workbench.texteditor 3.18.0.v20240819-1419]
+> Start DBeaver UI Editors - Data [org.jkiss.dbeaver.ui.editors.data 1.0.144.202412011650]
+Warning: NLS unused message: actions_navigator__objects in: org.jkiss.dbeaver.ui.editors.sql.internal.SQLEditorMessages
+> Start DBeaver UI Editors - SQL [org.jkiss.dbeaver.ui.editors.sql 1.0.144.202412011650]
+> Start DBeaver SQL Terminal [org.jkiss.dbeaver.ui.editors.sql.terminal 1.0.120.202412011650]
+> Start Core Compare Support [org.eclipse.compare.core 3.8.500.v20240524-2010]
+> Start Internet Connection Management UI [org.eclipse.ui.net 1.5.400.v20240413-1529]
+> Start Internet Connection Management [org.eclipse.core.net 1.5.500.v20240625-1706]
+> Start DBeaver Sample Database [org.jkiss.dbeaver.ext.sample.database 1.0.181.202412011650]
+> Start DBeaver Tip of the day [org.jkiss.dbeaver.ext.ui.tipoftheday 1.0.150.202412011650]
+> Start GEF Classic Draw2d [org.eclipse.draw2d 3.17.0.202409021815]
+> Start GEF Classic GEF (MVC) [org.eclipse.gef 3.19.0.202409021815]
+> Start DBeaver ERD UI [org.jkiss.dbeaver.erd.ui 3.0.104.202412011650]
+> Start DBeaver ERD Model [org.jkiss.dbeaver.erd.model 1.0.104.202412011650]
+> Start DBeaver Dashboard UI [org.jkiss.dbeaver.ui.dashboard 1.0.141.202412011650]
+> Start DBeaver UI Editors - Connections [org.jkiss.dbeaver.ui.editors.connection 1.0.135.202412011650]
+> Start DBeaver JDBC Model [org.jkiss.dbeaver.model.jdbc 1.0.37.202412011650]
+> Start DBeaver Oracle Model [org.jkiss.dbeaver.ext.oracle 2.1.229.202412011650]
+> Start Console [org.eclipse.ui.console 3.14.100.v20240429-1358]
+> Start Debug Core [org.eclipse.debug.core 3.21.500.v20240801-2219]
+2024-12-19 00:08:34.475 - Connect with 'localhost' (oracle_thin-193d73d552e-2a7619bd6808f247)
+2024-12-19 00:08:34.499 - Execution context opened (localhost; Main; 0)
+2024-12-19 00:08:34.542 - Can't connect - connect/disconnect is in progress
+> Start DBeaver SQL Language Semantic Model [org.jkiss.dbeaver.model.lsm 1.0.39.202412011650]
+2024-12-19 00:08:34.847 - Execution context opened (localhost; Metadata; 1)
+2024-12-19 00:08:34.924 - Connected (oracle_thin-193d73d552e-2a7619bd6808f247, Oracle JDBC driver [11.2.0.2.0])
+2024-12-19 00:08:35.045 - Execution context opened (localhost; SQLEditor <day03(task).sql>; 2)
+2024-12-19 00:08:35.046 - Execution context opened (localhost; SQLEditor <day03(DDL).sql>; 3)
+2024-12-19 00:08:36.099 - Open [https://dbeaver.io/product/version.xml]
+> Start DBeaver Tasks - Native Tools UI [org.jkiss.dbeaver.tasks.native.ui 1.0.122.202412011650]
+> Start DBeaver Oracle UI [org.jkiss.dbeaver.ext.oracle.ui 1.0.131.202412011650]
+> Start DBeaver Tasks - General UI [org.jkiss.dbeaver.tasks.ui 1.0.122.202412011650]
+2024-12-19 00:12:27.303 - Error while analyzing query text: CREATE TABLE TBL_SUB(
+	SUB_NUMBER NUMBER,
+	SUB_NAME VARCHAR2(100),
+	SUB_TEACHER VARCHAR2(100),
+	SUB_STARTDATE DATE,
+	SUB_TIME NUMBER,
+	STU_NUMBER NUMBER,
+	CONSTRAINT PK_SUB PRIMARY KEY()
+)
+java.lang.NullPointerException: Cannot invoke "org.jkiss.dbeaver.model.sql.semantics.SQLQuerySymbolEntry.isNotClassified()" because "columnRef" is null
+	at org.jkiss.dbeaver.model.sql.semantics.model.ddl.SQLQueryTableConstraintSpec.propagateContext(SQLQueryTableConstraintSpec.java:98)
+	at org.jkiss.dbeaver.model.sql.semantics.model.ddl.SQLQueryTableCreateModel.applyContext(SQLQueryTableCreateModel.java:121)
+	at org.jkiss.dbeaver.model.sql.semantics.model.SQLQueryModel.propagateContext(SQLQueryModel.java:80)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.recognizeQuery(SQLQueryModelRecognizer.java:156)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.recognizeQuery(SQLQueryModelRecognizer.java:934)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLBackgroundParsingJob.doWork(SQLBackgroundParsingJob.java:660)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLBackgroundParsingJob$1.run(SQLBackgroundParsingJob.java:96)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:119)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-12-19 00:13:04.491 - Error while analyzing query text: CREATE TABLE TBL_SUB(
+	SUB_NUMBER NUMBER,
+	SUB_NAME VARCHAR2(100),
+	SUB_TEACHER VARCHAR2(100),
+	SUB_STARTDATE DATE,
+	SUB_TIME NUMBER,
+	STU_NUMBER NUMBER,
+	CONSTRAINT PK_SUB PRIMARY KEY(SUB_NUMBER),
+	CONSTRAINT FK_STU FOREIGN KEY()
+)
+java.lang.NullPointerException: Cannot invoke "org.jkiss.dbeaver.model.sql.semantics.SQLQuerySymbolEntry.isNotClassified()" because "columnRef" is null
+	at org.jkiss.dbeaver.model.sql.semantics.model.ddl.SQLQueryTableConstraintSpec.propagateContext(SQLQueryTableConstraintSpec.java:98)
+	at org.jkiss.dbeaver.model.sql.semantics.model.ddl.SQLQueryTableCreateModel.applyContext(SQLQueryTableCreateModel.java:121)
+	at org.jkiss.dbeaver.model.sql.semantics.model.SQLQueryModel.propagateContext(SQLQueryModel.java:80)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.recognizeQuery(SQLQueryModelRecognizer.java:156)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.recognizeQuery(SQLQueryModelRecognizer.java:934)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLBackgroundParsingJob.doWork(SQLBackgroundParsingJob.java:660)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLBackgroundParsingJob$1.run(SQLBackgroundParsingJob.java:96)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:119)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-12-19 00:14:28.955 - SQL Error [911] [22019]: ORA-00911: invalid character
+
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [911] [22019]: ORA-00911: invalid character
+
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:130)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:631)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:522)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:541)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:1016)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4273)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:128)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:126)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5166)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:119)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLSyntaxErrorException: ORA-00911: invalid character
+
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:440)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:396)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:837)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:445)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:191)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:523)
+	at oracle.jdbc.driver.T4CStatement.doOall8(T4CStatement.java:193)
+	at oracle.jdbc.driver.T4CStatement.executeForRows(T4CStatement.java:999)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1315)
+	at oracle.jdbc.driver.OracleStatement.executeInternal(OracleStatement.java:1890)
+	at oracle.jdbc.driver.OracleStatement.execute(OracleStatement.java:1855)
+	at oracle.jdbc.driver.OracleStatementWrapper.execute(OracleStatementWrapper.java:304)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:344)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:128)
+	... 12 more
+> Start DBeaver Data Transfer [org.jkiss.dbeaver.data.transfer 2.0.128.202412011650]
+2024-12-19 00:17:16.243 - Can't get column 'PLUGGED_IN': 부적합한 열 이름
+2024-12-19 00:17:23.375 - Can't get column 'COLUMN_NAMES_NUMS': 부적합한 열 이름
+2024-12-19 00:17:23.692 - Event loop exception
+java.lang.NullPointerException: Cannot invoke "org.jkiss.dbeaver.model.runtime.DBRProgressMonitor.subTask(String)" because "monitor" is null
+	at org.jkiss.dbeaver.erd.ui.layout.GraphLayoutAuto.layout(GraphLayoutAuto.java:63)
+	at org.jkiss.dbeaver.erd.ui.layout.DelegatingLayoutManager.layout(DelegatingLayoutManager.java:100)
+	at org.eclipse.draw2d.Figure.layout(Figure.java:1204)
+	at org.eclipse.draw2d.Figure.validate(Figure.java:2063)
+	at java.base/java.util.ArrayList.forEach(Unknown Source)
+	at org.eclipse.draw2d.Figure.validate(Figure.java:2064)
+	at java.base/java.util.ArrayList.forEach(Unknown Source)
+	at org.eclipse.draw2d.Figure.validate(Figure.java:2064)
+	at java.base/java.util.ArrayList.forEach(Unknown Source)
+	at org.eclipse.draw2d.Figure.validate(Figure.java:2064)
+	at java.base/java.util.ArrayList.forEach(Unknown Source)
+	at org.eclipse.draw2d.Figure.validate(Figure.java:2064)
+	at org.eclipse.draw2d.FreeformViewport$FreeformViewportLayout.calculatePreferredSize(FreeformViewport.java:27)
+	at org.eclipse.draw2d.AbstractLayout.getPreferredSize(AbstractLayout.java:106)
+	at org.eclipse.draw2d.AbstractHintLayout.getPreferredSize(AbstractHintLayout.java:87)
+	at org.eclipse.draw2d.Figure.getPreferredSize(Figure.java:881)
+	at org.eclipse.draw2d.ScrollPaneSolver.solve(ScrollPaneSolver.java:77)
+	at org.eclipse.draw2d.FigureCanvas.layoutViewport(FigureCanvas.java:312)
+	at org.eclipse.draw2d.FigureCanvas$1.notifyValidating(FigureCanvas.java:271)
+	at java.base/java.util.ArrayList.forEach(Unknown Source)
+	at org.eclipse.draw2d.UpdateManager.fireValidating(UpdateManager.java:124)
+	at org.eclipse.draw2d.DeferredUpdateManager.performValidation(DeferredUpdateManager.java:221)
+	at org.eclipse.draw2d.DeferredUpdateManager.performUpdate(DeferredUpdateManager.java:194)
+	at org.eclipse.draw2d.DeferredUpdateManager$UpdateRequest.run(DeferredUpdateManager.java:46)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4099)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3715)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:639)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:546)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.jkiss.dbeaver.ui.app.standalone.DBeaverApplication.start(DBeaverApplication.java:293)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:143)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:109)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:439)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:271)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.jkiss.dbeaver.launcher.DBeaverLauncher.invokeFramework(DBeaverLauncher.java:650)
+	at org.jkiss.dbeaver.launcher.DBeaverLauncher.basicRun(DBeaverLauncher.java:610)
+	at org.jkiss.dbeaver.launcher.DBeaverLauncher.run(DBeaverLauncher.java:1461)
+2024-12-19 00:19:29.547 - Error while analyzing query text: CREATE TABLE TBL_GRADE(
+	GRADE_NUMBER NUMBER,
+	GRADE_GRADE CHAR(1),
+	SUB_NUMBER NUMBER,
+	CONSTRAINT PK_GRADE PRIMARY KEY()
+)
+java.lang.NullPointerException: Cannot invoke "org.jkiss.dbeaver.model.sql.semantics.SQLQuerySymbolEntry.isNotClassified()" because "columnRef" is null
+	at org.jkiss.dbeaver.model.sql.semantics.model.ddl.SQLQueryTableConstraintSpec.propagateContext(SQLQueryTableConstraintSpec.java:98)
+	at org.jkiss.dbeaver.model.sql.semantics.model.ddl.SQLQueryTableCreateModel.applyContext(SQLQueryTableCreateModel.java:121)
+	at org.jkiss.dbeaver.model.sql.semantics.model.SQLQueryModel.propagateContext(SQLQueryModel.java:80)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.recognizeQuery(SQLQueryModelRecognizer.java:156)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.recognizeQuery(SQLQueryModelRecognizer.java:934)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLBackgroundParsingJob.doWork(SQLBackgroundParsingJob.java:660)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLBackgroundParsingJob$1.run(SQLBackgroundParsingJob.java:96)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:119)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-12-19 00:20:24.661 - Error while analyzing query text: CREATE TABLE TBL_GRADE(
+	GRADE_NUMBER NUMBER,
+	GRADE_GRADE CHAR(1),
+	SUB_NUMBER NUMBER,
+	CONSTRAINT PK_GRADE PRIMARY KEY(GRADE_NUMBER),
+	CONSTRAINT FK_SUB FOREIGN KEY()
+)
+java.lang.NullPointerException: Cannot invoke "org.jkiss.dbeaver.model.sql.semantics.SQLQuerySymbolEntry.isNotClassified()" because "columnRef" is null
+	at org.jkiss.dbeaver.model.sql.semantics.model.ddl.SQLQueryTableConstraintSpec.propagateContext(SQLQueryTableConstraintSpec.java:98)
+	at org.jkiss.dbeaver.model.sql.semantics.model.ddl.SQLQueryTableCreateModel.applyContext(SQLQueryTableCreateModel.java:121)
+	at org.jkiss.dbeaver.model.sql.semantics.model.SQLQueryModel.propagateContext(SQLQueryModel.java:80)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.recognizeQuery(SQLQueryModelRecognizer.java:156)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.recognizeQuery(SQLQueryModelRecognizer.java:934)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLBackgroundParsingJob.doWork(SQLBackgroundParsingJob.java:660)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLBackgroundParsingJob$1.run(SQLBackgroundParsingJob.java:96)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:119)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-12-19 00:27:32.539 - Execution context closed (localhost, 3)
+2024-12-19 00:57:36.896 - Execution context closed (localhost, 2)
+2024-12-19 00:57:37.038 - Dispose navigator model
+2024-12-19 00:57:37.056 - DBeaver is stopping
+2024-12-19 00:57:37.057 - Stop instance server
+2024-12-19 00:57:38.066 - Instance server has been stopped
+2024-12-19 00:57:38.067 - DBeaver shutdown completed

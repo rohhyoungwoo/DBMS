@@ -1,4 +1,4 @@
-day20(dbms 3일차)
+jjjjjjjjjjjjjjday20(dbms 3일차)
 복습 -> DDL -> 무결성 -> 모델링 -> 정규화 -> 시퀀스
 
 0. 복습
