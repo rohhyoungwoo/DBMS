@@ -1,0 +1,3 @@
+-- 집계함수
+SELECT * FROM employees;
+

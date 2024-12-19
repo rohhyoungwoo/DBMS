@@ -1,0 +1,20 @@
+-- 집계함수
+SELECT * FROM employees;
+
+-- count()
+-- 전체 직원 수 확인
+SELECT COUNT(*)
+FROM EMPLOYEES;
+
+-- 특정 부서 101번의 직원 수 확인
+SELECT DISTINCT DEPARTMENT_ID
+FROM EMPLOYEES;
+
+SELECT COUNT(*) AS "110번의 직원수"
+FROM EMPLOYEES
+WHERE DEPARTMENT_ID = 110;
+
+-- SUM()
+-- 모든 직원의 급여 총합 계산
+SELECT SUM(SALARY)
+FROM EMPLOYEES;
