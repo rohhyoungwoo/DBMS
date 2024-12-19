@@ -1,0 +1,673 @@
+2024-12-19 01:12:32.453 - DBeaver 24.3.0.202412011650 is starting
+2024-12-19 01:12:32.454 - OS: Windows 10 10.0 (amd64)
+2024-12-19 01:12:32.454 - Java version: 17.0.6 by Eclipse Adoptium (64bit)
+2024-12-19 01:12:32.455 - Install path: 'E:\web_0900_roh\dbms1\resource\dbeaver-ce-24.3.0-win32.win32.x86_64\dbeaver'
+2024-12-19 01:12:32.455 - Instance path: 'file:/E:/web_0900_roh/dbms/DBMS/workspace/'
+2024-12-19 01:12:32.457 - Memory available 64Mb/1024Mb
+2024-12-19 01:12:32.457 - Platform not initialized: metadata folder may be not set
+2024-12-19 01:12:32.465 - Create display
+2024-12-19 01:12:32.554 - Initialize desktop platform...
+2024-12-19 01:12:32.634 - BounceCastle bundle found. Use JCE provider BC
+> Start Core File Systems [org.eclipse.core.filesystem 1.11.0.v20240824-0952]
+> Start Core Resource Management [org.eclipse.core.resources 3.21.0.v20240805-1607]
+> Start DBeaver UI Navigator [org.jkiss.dbeaver.ui.navigator 1.0.144.202412011650]
+> Start Team Support Core [org.eclipse.team.core 3.10.500.v20240621-0541]
+2024-12-19 01:12:32.777 - Initialize base platform...
+> Start DBeaver UI Editors - Base [org.jkiss.dbeaver.ui.editors.base 1.0.144.202412011650]
+2024-12-19 01:12:32.797 - Platform initialized (243ms)
+2024-12-19 01:12:32.848 - Starting instance server at http://localhost:51808
+2024-12-19 01:12:32.853 - Run workbench
+> Start Eclipse e4 Workbench SWT [org.eclipse.e4.ui.workbench.swt 0.17.500.v20240807-0911]
+> Start Eclipse Application Services [org.eclipse.e4.core.services 2.4.400.v20240413-1529]
+> Start Eclipse UI Application Services [org.eclipse.e4.ui.services 1.6.300.v20231201-1637]
+> Start Eclipse e4 Progress View [org.eclipse.e4.ui.progress 0.4.600.v20240606-1020]
+> Start Eclipse Bindings Support [org.eclipse.e4.ui.bindings 0.14.400.v20240321-1245]
+> Start Eclipse e4 core commands [org.eclipse.e4.core.commands 1.1.400.v20240424-0444]
+> Start EMF XML/XMI Persistence [org.eclipse.emf.ecore.xmi 2.38.0.v20240721-0634]
+> Start Eclipse CSS SWT Theme Support [org.eclipse.e4.ui.css.swt.theme 0.14.400.v20240424-0956]
+> Start Eclipse e4 Workbench Add-ons [org.eclipse.e4.ui.workbench.addons.swt 1.5.500.v20240620-1945]
+> Start Eclipse e4 Workbench SWT Renderer [org.eclipse.e4.ui.workbench.renderers.swt 0.16.500.v20240727-1037]
+> Start Eclipse Dependency Injection Extensions [org.eclipse.e4.core.di.extensions 0.18.300.v20240413-1529]
+> Start Eclipse CSS SWT Support [org.eclipse.e4.ui.css.swt 0.15.400.v20240321-1245]
+2024-12-19 01:12:33.849 - Configure workbench window
+> Start DBeaver SQL Model [org.jkiss.dbeaver.model.sql 1.0.134.202412011650]
+2024-12-19 01:12:33.923 - Script dialect 'gbase8s' not found in registry (for data source provider gbase8s). Use default.
+2024-12-19 01:12:33.956 - Total database drivers: 121 (121)
+> Start Help System Core [org.eclipse.help 3.10.400.v20240415-0528]
+2024-12-19 01:12:34.014 - Create actions
+2024-12-19 01:12:34.019 - Disable Eclipse action set 'org.eclipse.ui.edit.text.actionSet.annotationNavigation'
+2024-12-19 01:12:34.020 - Disable Eclipse action set 'org.eclipse.ui.WorkingSetActionSet'
+2024-12-19 01:12:34.020 - Disable Eclipse action set 'org.eclipse.ui.actionSet.openFiles'
+2024-12-19 01:12:34.021 - Create workbench actions
+2024-12-19 01:12:34.308 - Initialize workbench window
+2024-12-19 01:12:34.313 - Finish initialization
+> Start Default Text Editor [org.eclipse.ui.editors 3.18.0.v20240807-0735]
+> Start Text Editor Framework [org.eclipse.ui.workbench.texteditor 3.18.0.v20240819-1419]
+> Start DBeaver UI Editors - Data [org.jkiss.dbeaver.ui.editors.data 1.0.144.202412011650]
+Warning: NLS unused message: actions_navigator__objects in: org.jkiss.dbeaver.ui.editors.sql.internal.SQLEditorMessages
+> Start DBeaver UI Editors - SQL [org.jkiss.dbeaver.ui.editors.sql 1.0.144.202412011650]
+> Start DBeaver SQL Terminal [org.jkiss.dbeaver.ui.editors.sql.terminal 1.0.120.202412011650]
+> Start Core Compare Support [org.eclipse.compare.core 3.8.500.v20240524-2010]
+> Start Internet Connection Management UI [org.eclipse.ui.net 1.5.400.v20240413-1529]
+> Start Internet Connection Management [org.eclipse.core.net 1.5.500.v20240625-1706]
+> Start DBeaver Sample Database [org.jkiss.dbeaver.ext.sample.database 1.0.181.202412011650]
+> Start DBeaver Tip of the day [org.jkiss.dbeaver.ext.ui.tipoftheday 1.0.150.202412011650]
+> Start GEF Classic Draw2d [org.eclipse.draw2d 3.17.0.202409021815]
+> Start GEF Classic GEF (MVC) [org.eclipse.gef 3.19.0.202409021815]
+> Start DBeaver ERD UI [org.jkiss.dbeaver.erd.ui 3.0.104.202412011650]
+> Start DBeaver ERD Model [org.jkiss.dbeaver.erd.model 1.0.104.202412011650]
+> Start DBeaver Dashboard UI [org.jkiss.dbeaver.ui.dashboard 1.0.141.202412011650]
+> Start DBeaver UI Editors - Connections [org.jkiss.dbeaver.ui.editors.connection 1.0.135.202412011650]
+> Start DBeaver JDBC Model [org.jkiss.dbeaver.model.jdbc 1.0.37.202412011650]
+> Start DBeaver Oracle Model [org.jkiss.dbeaver.ext.oracle 2.1.229.202412011650]
+> Start Console [org.eclipse.ui.console 3.14.100.v20240429-1358]
+> Start Debug Core [org.eclipse.debug.core 3.21.500.v20240801-2219]
+2024-12-19 01:12:36.301 - Connect with 'localhost' (oracle_thin-193d73d552e-2a7619bd6808f247)
+2024-12-19 01:12:36.323 - Execution context opened (localhost; Main; 0)
+2024-12-19 01:12:36.630 - Execution context opened (localhost; Metadata; 1)
+2024-12-19 01:12:36.692 - Connected (oracle_thin-193d73d552e-2a7619bd6808f247, Oracle JDBC driver [11.2.0.2.0])
+2024-12-19 01:12:36.814 - Execution context opened (localhost; SQLEditor <day03(task).sql>; 2)
+> Start DBeaver SQL Language Semantic Model [org.jkiss.dbeaver.model.lsm 1.0.39.202412011650]
+> Start DBeaver Tasks - Native Tools UI [org.jkiss.dbeaver.tasks.native.ui 1.0.122.202412011650]
+> Start DBeaver Oracle UI [org.jkiss.dbeaver.ext.oracle.ui 1.0.131.202412011650]
+> Start DBeaver Tasks - General UI [org.jkiss.dbeaver.tasks.ui 1.0.122.202412011650]
+2024-12-19 01:12:44.981 - Can't get column 'PLUGGED_IN': 부적합한 열 이름
+2024-12-19 01:12:48.552 - Can't get column 'COLUMN_NAMES_NUMS': 부적합한 열 이름
+2024-12-19 01:13:31.860 - Can't parse numeric value [--과제
+--모델링, 정규화, 구현까지 진행 후 각 테이블에 5개씩 값 넣어서 조회까지 할 것!
+
+
+--1. 학생 정보와 성적을 관리하기 위해 다음과 같은 정보를 저장해야한다
+--- 학생번호, 이름, 나이, 전화번호, 주소
+--- 과목명, 강사명, 수업일자(개강일자) 수업시간, 학생성적, 수업번호, 과목번호
+
+--개념적 설계, 논리적 설계, 물리적 설계, 구현
+
+-- 1. 개념적 설계
+--엔티티 도출 => 학생, 과목, 성적
+--학생			과목			성적
+--학생번호		과목번호		수업번호
+--이름			과목명		학생성적
+--나이			강사명	
+--전화번호		개강일자
+--주소			수업시간
+
+-- 2. 논리적 설계
+-- 데이터 속성과 타입, 키 정의
+--학생				과목				성적
+--학생번호(PK)정수		과목번호(PK)정수	수업번호(PK)정수
+--이름 문자열			과목명 문자열		학생성적 문자열
+--나이 정수			강사명 문자열		과목번호(FK)정수
+--전화번호 문자열		개강일자 날짜
+--주소 문자열			수업시간 정수
+--					학생번호(FK)정수
+
+-- 3. 물리적 설계
+-- 테이블명, 컬럼명, 제약조건
+
+--TBL_STU
+--STU_NUMBER	: NUMBER PK
+--STU_NAME	: VARCHAR2
+--STU_AGE		: NUMBER
+--STU_PHONE	: VARCHAR2
+--STU_ADDRESS	: VARCHAR2
+
+--TBL_SUB
+--SUB_NUMBER	: NUMBER PK
+--SUB_NAME	: VARCHAR2
+--SUB_TEACHER	: VARCHAR2
+--SUB_STARTDATE : DATE
+--SUB_TIME	: NUMBER
+--STU_NUMBER	: NUMBER FK
+
+--TBL_GRADE
+--GRADE_NUMBER : NUMBER PK
+--GRADE_GRADE	: CHAR
+--SUB_NUMBER	: NUMBER FK
+
+-- 4. 구현
+CREATE TABLE TBL_STU(
+	STU_NUMBER NUMBER CONSTRAINT PK_STU PRIMARY KEY,
+	STU_NAME VARCHAR2(1000),
+	STU_AGE NUMBER,
+	STU_PHONE VARCHAR2(20),
+	STU_ADDRESS VARCHAR2(1000)
+);
+SELECT * FROM TBL_STU;
+
+CREATE TABLE TBL_SUB(
+	SUB_NUMBER NUMBER,
+	SUB_NAME VARCHAR2(100),
+	SUB_TEACHER VARCHAR2(100),
+	SUB_STARTDATE DATE,
+	SUB_TIME NUMBER,
+	STU_NUMBER NUMBER,
+	CONSTRAINT PK_SUB PRIMARY KEY(SUB_NUMBER),
+	CONSTRAINT FK_STU FOREIGN KEY(STU_NUMBER) REFERENCES TBL_STU(STU_NUMBER)
+);
+SELECT * FROM TBL_SUB;
+
+CREATE TABLE TBL_GRADE(
+	GRADE_NUMBER NUMBER,
+	GRADE_GRADE CHAR(1),
+	SUB_NUMBER NUMBER,
+	CONSTRAINT PK_GRADE PRIMARY KEY(GRADE_NUMBER),
+	CONSTRAINT FK_SUB FOREIGN KEY(SUB_NUMBER) REFERENCES TBL_SUB(SUB_NUMBER)
+);
+SELECT * FROM TBL_GRADE;
+
+--2. 동물병원의 요구사항은 다음과 같다
+--- 동물병원의 반려동물, 보호자의 정보를 저장하고 관리한다
+--- 보호자는 번호, 이름, 주소, 핸드폰 번호, 이메일주소를 가진다
+--- 반려동물은 번호, 이름, 성별, 나이, 종, 품종, 보호자 번호를 가진다
+--- 모든 보호자는 중복이 없는 번호를 가진다
+--- 보호자의 이름, 주소, 핸드폰 번호는 필수 정보이다
+--- 모든 동물은 중복이 없는 번호를 가진다
+--- 동물의 이름, 성별, 나이, 종, 보호자 번호는 필수 정보이다
+--- 동물의 보호자 번호는 실제 존재하는 보호자 번호여야 한다
+
+-- 1. 개념적 설계
+-- 엔티티 도출 => 보호자, 반려동물
+-- 엔티티 속성
+--보호자			반려동물
+--번호				번호
+--이름				이름
+--주소				성별
+--핸드폰번호			나이
+--이메일주소			종
+--				품종
+--				보호자번호
+
+-- 2. 논리적 설계
+-- 데이터의 속성과 타입, 키 정의
+--보호자				반려동물
+--번호(PK)정수			번호(PK)정수
+--이름 문자열	N/N		이름 문자열 N/N
+--주소 문자열	N/N		성별 문자열 N/N
+--핸드폰번호 문자열 N/N	나이 정수 N/N
+--이메일주소 문자열		종 문자열 N/N
+--					품종 문자열
+--					보호자번호 (FK)정수 N/N
+
+-- 3. 물리적 설계
+] using formatter: Character array is missing "e" notation exponential mark.
+2024-12-19 01:13:31.862 - Can't parse numeric value [--과제
+--모델링, 정규화, 구현까지 진행 후 각 테이블에 5개씩 값 넣어서 조회까지 할 것!
+
+
+--1. 학생 정보와 성적을 관리하기 위해 다음과 같은 정보를 저장해야한다
+--- 학생번호, 이름, 나이, 전화번호, 주소
+--- 과목명, 강사명, 수업일자(개강일자) 수업시간, 학생성적, 수업번호, 과목번호
+
+--개념적 설계, 논리적 설계, 물리적 설계, 구현
+
+-- 1. 개념적 설계
+--엔티티 도출 => 학생, 과목, 성적
+--학생			과목			성적
+--학생번호		과목번호		수업번호
+--이름			과목명		학생성적
+--나이			강사명	
+--전화번호		개강일자
+--주소			수업시간
+
+-- 2. 논리적 설계
+-- 데이터 속성과 타입, 키 정의
+--학생				과목				성적
+--학생번호(PK)정수		과목번호(PK)정수	수업번호(PK)정수
+--이름 문자열			과목명 문자열		학생성적 문자열
+--나이 정수			강사명 문자열		과목번호(FK)정수
+--전화번호 문자열		개강일자 날짜
+--주소 문자열			수업시간 정수
+--					학생번호(FK)정수
+
+-- 3. 물리적 설계
+-- 테이블명, 컬럼명, 제약조건
+
+--TBL_STU
+--STU_NUMBER	: NUMBER PK
+--STU_NAME	: VARCHAR2
+--STU_AGE		: NUMBER
+--STU_PHONE	: VARCHAR2
+--STU_ADDRESS	: VARCHAR2
+
+--TBL_SUB
+--SUB_NUMBER	: NUMBER PK
+--SUB_NAME	: VARCHAR2
+--SUB_TEACHER	: VARCHAR2
+--SUB_STARTDATE : DATE
+--SUB_TIME	: NUMBER
+--STU_NUMBER	: NUMBER FK
+
+--TBL_GRADE
+--GRADE_NUMBER : NUMBER PK
+--GRADE_GRADE	: CHAR
+--SUB_NUMBER	: NUMBER FK
+
+-- 4. 구현
+CREATE TABLE TBL_STU(
+	STU_NUMBER NUMBER CONSTRAINT PK_STU PRIMARY KEY,
+	STU_NAME VARCHAR2(1000),
+	STU_AGE NUMBER,
+	STU_PHONE VARCHAR2(20),
+	STU_ADDRESS VARCHAR2(1000)
+);
+SELECT * FROM TBL_STU;
+
+CREATE TABLE TBL_SUB(
+	SUB_NUMBER NUMBER,
+	SUB_NAME VARCHAR2(100),
+	SUB_TEACHER VARCHAR2(100),
+	SUB_STARTDATE DATE,
+	SUB_TIME NUMBER,
+	STU_NUMBER NUMBER,
+	CONSTRAINT PK_SUB PRIMARY KEY(SUB_NUMBER),
+	CONSTRAINT FK_STU FOREIGN KEY(STU_NUMBER) REFERENCES TBL_STU(STU_NUMBER)
+);
+SELECT * FROM TBL_SUB;
+
+CREATE TABLE TBL_GRADE(
+	GRADE_NUMBER NUMBER,
+	GRADE_GRADE CHAR(1),
+	SUB_NUMBER NUMBER,
+	CONSTRAINT PK_GRADE PRIMARY KEY(GRADE_NUMBER),
+	CONSTRAINT FK_SUB FOREIGN KEY(SUB_NUMBER) REFERENCES TBL_SUB(SUB_NUMBER)
+);
+SELECT * FROM TBL_GRADE;
+
+--2. 동물병원의 요구사항은 다음과 같다
+--- 동물병원의 반려동물, 보호자의 정보를 저장하고 관리한다
+--- 보호자는 번호, 이름, 주소, 핸드폰 번호, 이메일주소를 가진다
+--- 반려동물은 번호, 이름, 성별, 나이, 종, 품종, 보호자 번호를 가진다
+--- 모든 보호자는 중복이 없는 번호를 가진다
+--- 보호자의 이름, 주소, 핸드폰 번호는 필수 정보이다
+--- 모든 동물은 중복이 없는 번호를 가진다
+--- 동물의 이름, 성별, 나이, 종, 보호자 번호는 필수 정보이다
+--- 동물의 보호자 번호는 실제 존재하는 보호자 번호여야 한다
+
+-- 1. 개념적 설계
+-- 엔티티 도출 => 보호자, 반려동물
+-- 엔티티 속성
+--보호자			반려동물
+--번호				번호
+--이름				이름
+--주소				성별
+--핸드폰번호			나이
+--이메일주소			종
+--				품종
+--				보호자번호
+
+-- 2. 논리적 설계
+-- 데이터의 속성과 타입, 키 정의
+--보호자				반려동물
+--번호(PK)정수			번호(PK)정수
+--이름 문자열	N/N		이름 문자열 N/N
+--주소 문자열	N/N		성별 문자열 N/N
+--핸드폰번호 문자열 N/N	나이 정수 N/N
+--이메일주소 문자열		종 문자열 N/N
+--					품종 문자열
+--					보호자번호 (FK)정수 N/N
+
+-- 3. 물리적 설계
+] using formatter: Character array is missing "e" notation exponential mark.
+2024-12-19 01:13:31.909 - Can't parse numeric value [--과제
+--모델링, 정규화, 구현까지 진행 후 각 테이블에 5개씩 값 넣어서 조회까지 할 것!
+
+
+--1. 학생 정보와 성적을 관리하기 위해 다음과 같은 정보를 저장해야한다
+--- 학생번호, 이름, 나이, 전화번호, 주소
+--- 과목명, 강사명, 수업일자(개강일자) 수업시간, 학생성적, 수업번호, 과목번호
+
+--개념적 설계, 논리적 설계, 물리적 설계, 구현
+
+-- 1. 개념적 설계
+--엔티티 도출 => 학생, 과목, 성적
+--학생			과목			성적
+--학생번호		과목번호		수업번호
+--이름			과목명		학생성적
+--나이			강사명	
+--전화번호		개강일자
+--주소			수업시간
+
+-- 2. 논리적 설계
+-- 데이터 속성과 타입, 키 정의
+--학생				과목				성적
+--학생번호(PK)정수		과목번호(PK)정수	수업번호(PK)정수
+--이름 문자열			과목명 문자열		학생성적 문자열
+--나이 정수			강사명 문자열		과목번호(FK)정수
+--전화번호 문자열		개강일자 날짜
+--주소 문자열			수업시간 정수
+--					학생번호(FK)정수
+
+-- 3. 물리적 설계
+-- 테이블명, 컬럼명, 제약조건
+
+--TBL_STU
+--STU_NUMBER	: NUMBER PK
+--STU_NAME	: VARCHAR2
+--STU_AGE		: NUMBER
+--STU_PHONE	: VARCHAR2
+--STU_ADDRESS	: VARCHAR2
+
+--TBL_SUB
+--SUB_NUMBER	: NUMBER PK
+--SUB_NAME	: VARCHAR2
+--SUB_TEACHER	: VARCHAR2
+--SUB_STARTDATE : DATE
+--SUB_TIME	: NUMBER
+--STU_NUMBER	: NUMBER FK
+
+--TBL_GRADE
+--GRADE_NUMBER : NUMBER PK
+--GRADE_GRADE	: CHAR
+--SUB_NUMBER	: NUMBER FK
+
+-- 4. 구현
+CREATE TABLE TBL_STU(
+	STU_NUMBER NUMBER CONSTRAINT PK_STU PRIMARY KEY,
+	STU_NAME VARCHAR2(1000),
+	STU_AGE NUMBER,
+	STU_PHONE VARCHAR2(20),
+	STU_ADDRESS VARCHAR2(1000)
+);
+SELECT * FROM TBL_STU;
+
+CREATE TABLE TBL_SUB(
+	SUB_NUMBER NUMBER,
+	SUB_NAME VARCHAR2(100),
+	SUB_TEACHER VARCHAR2(100),
+	SUB_STARTDATE DATE,
+	SUB_TIME NUMBER,
+	STU_NUMBER NUMBER,
+	CONSTRAINT PK_SUB PRIMARY KEY(SUB_NUMBER),
+	CONSTRAINT FK_STU FOREIGN KEY(STU_NUMBER) REFERENCES TBL_STU(STU_NUMBER)
+);
+SELECT * FROM TBL_SUB;
+
+CREATE TABLE TBL_GRADE(
+	GRADE_NUMBER NUMBER,
+	GRADE_GRADE CHAR(1),
+	SUB_NUMBER NUMBER,
+	CONSTRAINT PK_GRADE PRIMARY KEY(GRADE_NUMBER),
+	CONSTRAINT FK_SUB FOREIGN KEY(SUB_NUMBER) REFERENCES TBL_SUB(SUB_NUMBER)
+);
+SELECT * FROM TBL_GRADE;
+
+--2. 동물병원의 요구사항은 다음과 같다
+--- 동물병원의 반려동물, 보호자의 정보를 저장하고 관리한다
+--- 보호자는 번호, 이름, 주소, 핸드폰 번호, 이메일주소를 가진다
+--- 반려동물은 번호, 이름, 성별, 나이, 종, 품종, 보호자 번호를 가진다
+--- 모든 보호자는 중복이 없는 번호를 가진다
+--- 보호자의 이름, 주소, 핸드폰 번호는 필수 정보이다
+--- 모든 동물은 중복이 없는 번호를 가진다
+--- 동물의 이름, 성별, 나이, 종, 보호자 번호는 필수 정보이다
+--- 동물의 보호자 번호는 실제 존재하는 보호자 번호여야 한다
+
+-- 1. 개념적 설계
+-- 엔티티 도출 => 보호자, 반려동물
+-- 엔티티 속성
+--보호자			반려동물
+--번호				번호
+--이름				이름
+--주소				성별
+--핸드폰번호			나이
+--이메일주소			종
+--				품종
+--				보호자번호
+
+-- 2. 논리적 설계
+-- 데이터의 속성과 타입, 키 정의
+--보호자				반려동물
+--번호(PK)정수			번호(PK)정수
+--이름 문자열	N/N		이름 문자열 N/N
+--주소 문자열	N/N		성별 문자열 N/N
+--핸드폰번호 문자열 N/N	나이 정수 N/N
+--이메일주소 문자열		종 문자열 N/N
+--					품종 문자열
+--					보호자번호 (FK)정수 N/N
+
+-- 3. 물리적 설계
+] using formatter: Character array is missing "e" notation exponential mark.
+2024-12-19 01:13:31.951 - Can't parse numeric value [--과제
+--모델링, 정규화, 구현까지 진행 후 각 테이블에 5개씩 값 넣어서 조회까지 할 것!
+
+
+--1. 학생 정보와 성적을 관리하기 위해 다음과 같은 정보를 저장해야한다
+--- 학생번호, 이름, 나이, 전화번호, 주소
+--- 과목명, 강사명, 수업일자(개강일자) 수업시간, 학생성적, 수업번호, 과목번호
+
+--개념적 설계, 논리적 설계, 물리적 설계, 구현
+
+-- 1. 개념적 설계
+--엔티티 도출 => 학생, 과목, 성적
+--학생			과목			성적
+--학생번호		과목번호		수업번호
+--이름			과목명		학생성적
+--나이			강사명	
+--전화번호		개강일자
+--주소			수업시간
+
+-- 2. 논리적 설계
+-- 데이터 속성과 타입, 키 정의
+--학생				과목				성적
+--학생번호(PK)정수		과목번호(PK)정수	수업번호(PK)정수
+--이름 문자열			과목명 문자열		학생성적 문자열
+--나이 정수			강사명 문자열		과목번호(FK)정수
+--전화번호 문자열		개강일자 날짜
+--주소 문자열			수업시간 정수
+--					학생번호(FK)정수
+
+-- 3. 물리적 설계
+-- 테이블명, 컬럼명, 제약조건
+
+--TBL_STU
+--STU_NUMBER	: NUMBER PK
+--STU_NAME	: VARCHAR2
+--STU_AGE		: NUMBER
+--STU_PHONE	: VARCHAR2
+--STU_ADDRESS	: VARCHAR2
+
+--TBL_SUB
+--SUB_NUMBER	: NUMBER PK
+--SUB_NAME	: VARCHAR2
+--SUB_TEACHER	: VARCHAR2
+--SUB_STARTDATE : DATE
+--SUB_TIME	: NUMBER
+--STU_NUMBER	: NUMBER FK
+
+--TBL_GRADE
+--GRADE_NUMBER : NUMBER PK
+--GRADE_GRADE	: CHAR
+--SUB_NUMBER	: NUMBER FK
+
+-- 4. 구현
+CREATE TABLE TBL_STU(
+	STU_NUMBER NUMBER CONSTRAINT PK_STU PRIMARY KEY,
+	STU_NAME VARCHAR2(1000),
+	STU_AGE NUMBER,
+	STU_PHONE VARCHAR2(20),
+	STU_ADDRESS VARCHAR2(1000)
+);
+SELECT * FROM TBL_STU;
+
+CREATE TABLE TBL_SUB(
+	SUB_NUMBER NUMBER,
+	SUB_NAME VARCHAR2(100),
+	SUB_TEACHER VARCHAR2(100),
+	SUB_STARTDATE DATE,
+	SUB_TIME NUMBER,
+	STU_NUMBER NUMBER,
+	CONSTRAINT PK_SUB PRIMARY KEY(SUB_NUMBER),
+	CONSTRAINT FK_STU FOREIGN KEY(STU_NUMBER) REFERENCES TBL_STU(STU_NUMBER)
+);
+SELECT * FROM TBL_SUB;
+
+CREATE TABLE TBL_GRADE(
+	GRADE_NUMBER NUMBER,
+	GRADE_GRADE CHAR(1),
+	SUB_NUMBER NUMBER,
+	CONSTRAINT PK_GRADE PRIMARY KEY(GRADE_NUMBER),
+	CONSTRAINT FK_SUB FOREIGN KEY(SUB_NUMBER) REFERENCES TBL_SUB(SUB_NUMBER)
+);
+SELECT * FROM TBL_GRADE;
+
+--2. 동물병원의 요구사항은 다음과 같다
+--- 동물병원의 반려동물, 보호자의 정보를 저장하고 관리한다
+--- 보호자는 번호, 이름, 주소, 핸드폰 번호, 이메일주소를 가진다
+--- 반려동물은 번호, 이름, 성별, 나이, 종, 품종, 보호자 번호를 가진다
+--- 모든 보호자는 중복이 없는 번호를 가진다
+--- 보호자의 이름, 주소, 핸드폰 번호는 필수 정보이다
+--- 모든 동물은 중복이 없는 번호를 가진다
+--- 동물의 이름, 성별, 나이, 종, 보호자 번호는 필수 정보이다
+--- 동물의 보호자 번호는 실제 존재하는 보호자 번호여야 한다
+
+-- 1. 개념적 설계
+-- 엔티티 도출 => 보호자, 반려동물
+-- 엔티티 속성
+--보호자			반려동물
+--번호				번호
+--이름				이름
+--주소				성별
+--핸드폰번호			나이
+--이메일주소			종
+--				품종
+--				보호자번호
+
+-- 2. 논리적 설계
+-- 데이터의 속성과 타입, 키 정의
+--보호자				반려동물
+--번호(PK)정수			번호(PK)정수
+--이름 문자열	N/N		이름 문자열 N/N
+--주소 문자열	N/N		성별 문자열 N/N
+--핸드폰번호 문자열 N/N	나이 정수 N/N
+--이메일주소 문자열		종 문자열 N/N
+--					품종 문자열
+--					보호자번호 (FK)정수 N/N
+
+-- 3. 물리적 설계
+] using formatter: Character array is missing "e" notation exponential mark.
+2024-12-19 01:13:31.996 - Can't parse numeric value [--과제
+--모델링, 정규화, 구현까지 진행 후 각 테이블에 5개씩 값 넣어서 조회까지 할 것!
+
+
+--1. 학생 정보와 성적을 관리하기 위해 다음과 같은 정보를 저장해야한다
+--- 학생번호, 이름, 나이, 전화번호, 주소
+--- 과목명, 강사명, 수업일자(개강일자) 수업시간, 학생성적, 수업번호, 과목번호
+
+--개념적 설계, 논리적 설계, 물리적 설계, 구현
+
+-- 1. 개념적 설계
+--엔티티 도출 => 학생, 과목, 성적
+--학생			과목			성적
+--학생번호		과목번호		수업번호
+--이름			과목명		학생성적
+--나이			강사명	
+--전화번호		개강일자
+--주소			수업시간
+
+-- 2. 논리적 설계
+-- 데이터 속성과 타입, 키 정의
+--학생				과목				성적
+--학생번호(PK)정수		과목번호(PK)정수	수업번호(PK)정수
+--이름 문자열			과목명 문자열		학생성적 문자열
+--나이 정수			강사명 문자열		과목번호(FK)정수
+--전화번호 문자열		개강일자 날짜
+--주소 문자열			수업시간 정수
+--					학생번호(FK)정수
+
+-- 3. 물리적 설계
+-- 테이블명, 컬럼명, 제약조건
+
+--TBL_STU
+--STU_NUMBER	: NUMBER PK
+--STU_NAME	: VARCHAR2
+--STU_AGE		: NUMBER
+--STU_PHONE	: VARCHAR2
+--STU_ADDRESS	: VARCHAR2
+
+--TBL_SUB
+--SUB_NUMBER	: NUMBER PK
+--SUB_NAME	: VARCHAR2
+--SUB_TEACHER	: VARCHAR2
+--SUB_STARTDATE : DATE
+--SUB_TIME	: NUMBER
+--STU_NUMBER	: NUMBER FK
+
+--TBL_GRADE
+--GRADE_NUMBER : NUMBER PK
+--GRADE_GRADE	: CHAR
+--SUB_NUMBER	: NUMBER FK
+
+-- 4. 구현
+CREATE TABLE TBL_STU(
+	STU_NUMBER NUMBER CONSTRAINT PK_STU PRIMARY KEY,
+	STU_NAME VARCHAR2(1000),
+	STU_AGE NUMBER,
+	STU_PHONE VARCHAR2(20),
+	STU_ADDRESS VARCHAR2(1000)
+);
+SELECT * FROM TBL_STU;
+
+CREATE TABLE TBL_SUB(
+	SUB_NUMBER NUMBER,
+	SUB_NAME VARCHAR2(100),
+	SUB_TEACHER VARCHAR2(100),
+	SUB_STARTDATE DATE,
+	SUB_TIME NUMBER,
+	STU_NUMBER NUMBER,
+	CONSTRAINT PK_SUB PRIMARY KEY(SUB_NUMBER),
+	CONSTRAINT FK_STU FOREIGN KEY(STU_NUMBER) REFERENCES TBL_STU(STU_NUMBER)
+);
+SELECT * FROM TBL_SUB;
+
+CREATE TABLE TBL_GRADE(
+	GRADE_NUMBER NUMBER,
+	GRADE_GRADE CHAR(1),
+	SUB_NUMBER NUMBER,
+	CONSTRAINT PK_GRADE PRIMARY KEY(GRADE_NUMBER),
+	CONSTRAINT FK_SUB FOREIGN KEY(SUB_NUMBER) REFERENCES TBL_SUB(SUB_NUMBER)
+);
+SELECT * FROM TBL_GRADE;
+
+--2. 동물병원의 요구사항은 다음과 같다
+--- 동물병원의 반려동물, 보호자의 정보를 저장하고 관리한다
+--- 보호자는 번호, 이름, 주소, 핸드폰 번호, 이메일주소를 가진다
+--- 반려동물은 번호, 이름, 성별, 나이, 종, 품종, 보호자 번호를 가진다
+--- 모든 보호자는 중복이 없는 번호를 가진다
+--- 보호자의 이름, 주소, 핸드폰 번호는 필수 정보이다
+--- 모든 동물은 중복이 없는 번호를 가진다
+--- 동물의 이름, 성별, 나이, 종, 보호자 번호는 필수 정보이다
+--- 동물의 보호자 번호는 실제 존재하는 보호자 번호여야 한다
+
+-- 1. 개념적 설계
+-- 엔티티 도출 => 보호자, 반려동물
+-- 엔티티 속성
+--보호자			반려동물
+--번호				번호
+--이름				이름
+--주소				성별
+--핸드폰번호			나이
+--이메일주소			종
+--				품종
+--				보호자번호
+
+-- 2. 논리적 설계
+-- 데이터의 속성과 타입, 키 정의
+--보호자				반려동물
+--번호(PK)정수			번호(PK)정수
+--이름 문자열	N/N		이름 문자열 N/N
+--주소 문자열	N/N		성별 문자열 N/N
+--핸드폰번호 문자열 N/N	나이 정수 N/N
+--이메일주소 문자열		종 문자열 N/N
+--					품종 문자열
+--					보호자번호 (FK)정수 N/N
+
+-- 3. 물리적 설계
+] using formatter: Character array is missing "e" notation exponential mark.
+2024-12-19 01:13:48.856 - Execution context opened (localhost; SQLEditor <day03(DDL).sql>; 3)
+2024-12-19 01:14:36.953 - Execution context closed (localhost, 2)
+2024-12-19 01:14:37.036 - Execution context closed (localhost, 3)
+2024-12-19 01:14:37.208 - Dispose navigator model
+2024-12-19 01:14:37.260 - DBeaver is stopping
+2024-12-19 01:14:37.260 - Stop instance server
+2024-12-19 01:14:38.263 - Instance server has been stopped
+2024-12-19 01:14:38.264 - DBeaver shutdown completed

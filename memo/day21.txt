@@ -187,7 +187,7 @@ VALUES (6, '안나', TO_DATE('2000-12-10', 'YYYY-MM-DD'), '영업부, 서울시.
 	GROUP BY 절은 특정 컬럼에 있는 값을 그룹으로 묶어서 데이터를 집계한다
 	ORDER BY절과 동일하게 SELECT 문에서 사용되며 위치는 WHERE 절 다음, ORDER BY절 이전에 작성한다
 	HAVING 절은 GROUP BY 다음에 사용할 수 있으며 SELECT의 WHERE 절 처럼 GROUP BY의 HAVING도 조건을 걸어준다
-	WHERE절은 쿼리문 전체에 조건을 걸어서 데이털르 가져오며
+	WHERE절은 쿼리문 전체에 조건을 걸어서 데이터를 가져오며
 	그 데이터들을 GROUP BY로 묶어주는데 묶은 데이터에 조건이 필요하면 HAVING 절에 작성하면 된다
 	WHERE절은 집계함수가 불가능하지만 HAVING 절은 가능하다
 	WHERE절에 우선적으로 처리할 조건식을 작성해야 속도가 빠르다

@@ -25,7 +25,7 @@ SELECT EMPLOYEE_ID, SALARY, DEPARTMENT_ID
 FROM EMPLOYEES e;
 
 -- 단일행 서브쿼리(서브쿼리의 결과가 하나의 행만 반환)
--- 가장 오래된 입사일을 가진 직원의 사원번호, 이름, 입사일 조회
+-- 가장 오래된 입사일을 가진 직원의 사원번호, 여름, 입사일 조회
 SELECT * FROM EMPLOYEES
 ORDER BY HIRE_DATE ASC;
 
