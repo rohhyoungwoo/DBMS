@@ -1,4 +1,4 @@
-jjjjjjjjjjjjjjday20(dbms 3일차)
+day20(dbms 3일차)
 복습 -> DDL -> 무결성 -> 모델링 -> 정규화 -> 시퀀스
 
 0. 복습
@@ -468,7 +468,7 @@ SELECT * FROM TBL_GENRE;
 1) 시퀀스 생성
    CREATE SEQUENCE 시퀀스명;
    START WITH 시작숫자
-   INCERMENT BY 증감숫자
+   INCREMENT BY 증감숫자
    일반적으로는 옵션을 주지않고 생성하여 사용한다
 
 2) 시퀀스 삭제
