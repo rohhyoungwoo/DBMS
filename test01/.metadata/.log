@@ -1,0 +1,13 @@
+!SESSION 2024-12-23 09:27:31.459 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -eclipse.keyring C:\Users\Administrator\AppData\Roaming\DBeaverData\secure\secure_storage
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data D:\web_0900_roh\dbms\test01
+
+!ENTRY org.eclipse.ui 2 2 2024-12-23 09:27:34.378
+!MESSAGE Invalid preference category path: org.eclipse.debug.ui.ConsolePreferencePage (bundle: org.eclipse.ui.console, page: org.eclipse.ui.internal.console.ansi.preferences.AnsiConsolePreferencePage)
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2024-12-23 09:28:54.488
+!MESSAGE Metadata is read before workspace initialization
