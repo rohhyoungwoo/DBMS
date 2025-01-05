@@ -1,9 +1,9 @@
 driver.selector.orderBy=score
 eclipse.preferences.version=1
 org.jkiss.dbeaver.core.confirm.exit=always
-project.active=day06
+project.active=jdbc01
 resultset.presentation.active=spreadsheet
 sample.database.canceled=true
 tipOfTheDayInitializer.notFirstRun=true
-ui.auto.update.check.time=1734911729756
+ui.auto.update.check.time=1735888393263
 ui.show.tip.of.the.day.on.startup=true
