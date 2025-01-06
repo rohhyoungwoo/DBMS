@@ -1,0 +1,35 @@
+--USer 테이블
+--	user_number 정수 pk
+--	user_id 문자열 NN
+--	user_pw 문자열 NN
+--	user_name 문자열 NN
+--	user_phone 문자열 UK
+
+CREATE TABLE TBL_USER2(
+	user_number NUMBER,
+	user_id varchar2(100),
+	user_pw varchar2(100),
+	user_name varchar2(10),
+	user_phone varchar2(100),
+	CONSTRAINT pk_user PRIMARY KEY(user_number), uk_user PRIMARY key(user_phone)
+)
+
+CREATE TABLE TBL_BOOK(
+	BOOK_NUMBER NUMBER,
+	BOOK_TITLE VARCHAR2(100) NOT NULL,
+	BOOK_AUTHOR VARCHAR2(100) NOT NULL,
+	BOOK_RENT VARCHAR2(100),
+	CONSTRAINT RENT_CHECK
+
+
+)
+
+
+
+--BOOK 테이블
+--	book_number 정수 PK
+--	book_title 문자열 NN
+--	book_author 문자열 NN
+--	book_rent 문자열(true, false) DEFAULT false NN
+
+-- Rent 테이블
